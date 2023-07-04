@@ -23,7 +23,7 @@ const ENTERTAINMENT_NEWS = "https://newsapi.org/v2/top-headlines?country=ng&cate
 const TECHNOLOGY_NEWS = "https://newsapi.org/v2/top-headlines?country=ng&category=technology&pageSize=8&apiKey=";
 const SEARCH_NEWS = "https://newsapi.org/v2/everything?q=";
 
-window.onload = function() {
+window.onload = function() {nk
     newsType.innerHTML="<h4>Headlines</h4>";
     fetchHeadlines();
 };
