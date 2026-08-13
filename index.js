@@ -39,7 +39,7 @@ const navLinks = document.querySelectorAll(".nav-link[data-category]");
     proxy and keep the key on the server.
 */
 
-const API_KEY = "3ff7ad1765374392a93cb7d68aedca4b";
+const API_KEY = "YOUR_API_KEY";
 
 const API_BASE =
     "https://newsapi.org/v2";
